@@ -1,0 +1,87 @@
+/* General Styling */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #141e30, #243b55);
+  color: #fff;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Movie List Container */
+.movie-list {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Movie Item */
+.movie-card {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.movie-card:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.02);
+}
+
+/* Movie Title */
+.movie-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffcc00;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+/* Movie Details (Hidden Initially) */
+.movie-details {
+  display: none;
+  padding: 10px;
+  text-align: left;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 5px;
+}
+
+/* Show Details when Active */
+.movie-card.active .movie-details {
+  display: block;
+}
+
+/* Reviews Section */
+.reviews {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+/* No Reviews */
+.no-reviews {
+  color: #ff4c4c;
+  font-weight: bold;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(-10px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+.movie-card.active {
+  animation: fadeIn 0.5s ease-in-out;
+}
