@@ -69,12 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![8](https://github.com/user-attachments/assets/4568a52d-8362-4be1-b901-2a51245c4d13)
-![7](https://github.com/user-attachments/assets/bbc04df5-8507-4257-9af8-cfd8a4b6f600)
-![6](https://github.com/user-attachments/assets/cfe789b2-7921-43ab-a392-78b9f86b2105)
-![5](https://github.com/user-attachments/assets/d3ab2e46-c980-40a3-b82f-69909c19e89f)
-![4](https://github.com/user-attachments/assets/77d667b4-3d02-4bc0-995c-f73922662d6b)
-![3](https://github.com/user-attachments/assets/b946e9ff-17df-4039-84da-985574d01569)
-![2](https://github.com/user-attachments/assets/8c0b7dd9-497a-4d79-a0d0-26a45200a487)
-![1](https://github.com/user-attachments/assets/be96d195-b53b-4392-92d2-b8c881df5c59)
-
+![8](https://github.com/user-attachments/assets/c4b13727-c0a6-4423-b18b-6eb8649aff23)
+![7](https://github.com/user-attachments/assets/8f69b227-825d-466a-9347-5a9a980ca0d7)
+![6](https://github.com/user-attachments/assets/7bea07a3-66be-41a5-8054-2c50c0e56349)
+![5](https://github.com/user-attachments/assets/22c9380c-b044-42c9-a39f-0c5e01ec8b7c)
+![4](https://github.com/user-attachments/assets/66153437-967d-4dde-b791-bff8e9f735d2)
+![3](https://github.com/user-attachments/assets/48fcdd0c-c2df-4af7-a8a1-a028f1bd72ec)
+![2](https://github.com/user-attachments/assets/010ad913-a44a-4ca4-a8af-a4f715b3ec7a)
+![1](https://github.com/user-attachments/assets/97971749-78af-4e67-a517-b0575e257ad6)
